@@ -1,7 +1,14 @@
-
-
-````markdown
 # 🛒 Amazon E-Commerce Kafka Simulation  
+
+![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) 
+![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Backend-Flask-black?style=for-the-badge&logo=flask) 
+![Kafka](https://img.shields.io/badge/Event%20Streaming-Kafka-231F20?style=for-the-badge&logo=apache-kafka)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb) 
+![Streamlit](https://img.shields.io/badge/Admin-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Docker](https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
 
 ## 📌 About The Project  
 
@@ -68,7 +75,7 @@ Follow these steps to run the project locally.
 ```bash
 git clone https://github.com/keerthana777z/Amazon-E-Commerce-Kafka-Simulation.git
 cd Amazon-E-Commerce-Kafka-Simulation
-````
+
 
 2️⃣ Set up backend (Flask)
 
