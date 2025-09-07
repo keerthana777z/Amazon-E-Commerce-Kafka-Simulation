@@ -1,23 +1,7 @@
-Got it, kee 🚀
-I’ll craft you a **professional, attractive, and polished README.md** for your repo `Amazon-E-Commerce-Kafka-Simulation`.
-It’ll be **eye-catching** with emojis, shields.io badges, clear sections, and a clean developer-focused flow.
 
-Here’s the upgraded version 👇
-
----
 
 ````markdown
 # 🛒 Amazon E-Commerce Kafka Simulation  
-
-![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react) 
-![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Backend-Flask-black?style=for-the-badge&logo=flask) 
-![Kafka](https://img.shields.io/badge/Event%20Streaming-Kafka-231F20?style=for-the-badge&logo=apache-kafka)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-4EA94B?style=for-the-badge&logo=mongodb) 
-![Streamlit](https://img.shields.io/badge/Admin-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Docker](https://img.shields.io/badge/Infra-Docker-2496ED?style=for-the-badge&logo=docker)
-
----
 
 ## 📌 About The Project  
 
