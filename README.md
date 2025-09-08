@@ -19,7 +19,7 @@ It demonstrates how **Apache Kafka** can decouple services in a scalable archite
 
 ---
 
-## ✨ Features  
+##  Features  
 
 ### 🛍️ User Portal (React + Tailwind)  
 - Interactive **product catalog** with search  
