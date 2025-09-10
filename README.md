@@ -15,7 +15,7 @@
 This project is a **real-time, event-driven Amazon-style e-commerce simulation**.  
 It demonstrates how **Apache Kafka** can decouple services in a scalable architecture, enabling **instant order placement, tracking, and status updates** — just like modern e-commerce giants.  
 
-👉 Built for **learning, showcasing, and simulating** real-world event-driven e-commerce flows.  
+ Built for **learning, showcasing, and simulating** real-world event-driven e-commerce flows.  
 
 ---
 
