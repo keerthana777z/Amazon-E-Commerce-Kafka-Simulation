@@ -3,3 +3,5 @@ pymongo
 flask
 streamlit
 requests
+flask-bcrypt
+flask-jwt-extended
