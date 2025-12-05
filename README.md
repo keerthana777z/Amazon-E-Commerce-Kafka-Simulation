@@ -43,7 +43,6 @@ It demonstrates how **Apache Kafka** can decouple services in a scalable archite
 ## 🏗️ Architecture  
 
 ![Architecture Diagram](architecture.png)  
-*Note: Add your `architecture.png` file to the repo root for this to display.*  
 
 ---
 
